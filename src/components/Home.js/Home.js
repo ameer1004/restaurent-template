@@ -47,7 +47,7 @@ const Home = () => {
               </p>
               <button>
                 {" "}
-                <a href="#">Learn More</a>{" "}
+                <a href="#learn more">Learn More</a>{" "}
               </button>
             </div>
           </div>
