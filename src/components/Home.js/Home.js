@@ -45,10 +45,7 @@ const Home = () => {
                 et purus a odio finibus bibendum in sit amet leo. Mauris feugiat
                 erat tellus.
               </p>
-              <button>
-                {" "}
-                <a href="#learn more">Learn More</a>{" "}
-              </button>
+              <button> Learn More</button>
             </div>
           </div>
         </div>
