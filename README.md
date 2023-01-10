@@ -1,4 +1,4 @@
-# Link for this project page: <a href="ttps://restaurent-template.onrender.com" target="_blank">Restaurent Template</a>
+# Link for this project page: <a href="https://restaurent-template.onrender.com" target="_blank">Restaurent Template</a>
 
 # Getting Started with Create React App
 
