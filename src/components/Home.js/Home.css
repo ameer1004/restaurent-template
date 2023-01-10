@@ -1,0 +1,71 @@
+.numbers {
+  background-color: #a82d49;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  overflow: hidden;
+}
+.numbers .row {
+  margin: 10px 0px;
+}
+.numbers h2 {
+  font-size: 50px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: white;
+  font-family: "Tajawal";
+}
+.numbers h6 {
+  color: white;
+}
+.pride {
+  background-color: transparent;
+  padding: 25px 0px;
+  max-width: 100%;
+  height: auto;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.pride img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+.pride h2 {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 10px 0px;
+  color: #77132b;
+  width: 80%;
+  line-height: 50px;
+}
+.pride p {
+  font-size: 15px;
+  line-height: 28px;
+  color: #333;
+  margin-top: 15px;
+}
+.pride button {
+  background-color: #a82d49;
+  border: 1px solid #a82d49;
+  box-sizing: border-box;
+  width: 140px;
+  height: 40px;
+  text-align: center;
+  margin-top: 20px;
+}
+.pride button a {
+  display: block;
+  color: white;
+  text-decoration: none !important;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.pride button:hover a {
+  color: #77132b;
+  transition: 0.2s ease;
+}
+
+.pride button:hover {
+  background-color: #fff;
+}
